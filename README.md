@@ -1,2 +1,2 @@
 # SpamEmailDataset
-This is the dataset for Spam Email detection
+This is the dataset for Spam Email Detection
